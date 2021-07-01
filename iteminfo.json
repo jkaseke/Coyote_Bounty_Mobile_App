@@ -1,0 +1,62 @@
+{
+    "access": "shared",
+    "accessInformation": null,
+    "appCategories": [
+    ],
+    "avgRating": 0,
+    "banner": null,
+    "categories": [
+    ],
+    "commentsEnabled": true,
+    "created": 1579208696000,
+    "culture": "en-au",
+    "description": "\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>The Utah Division of Wildlife Resources Coyote Bounty Reporter application assists the bounty program participants and managers to track information and coyote take locations for more efficient bounty program management.</p>",
+    "documentation": null,
+    "extent": [
+    ],
+    "groupDesignations": null,
+    "guid": null,
+    "id": "ea2137c5a81e4ea4b6ffd22c50eaa057",
+    "industries": [
+    ],
+    "isOrgItem": true,
+    "itemControl": "admin",
+    "languages": [
+    ],
+    "largeThumbnail": null,
+    "licenseInfo": "\n<p style=' margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;'>The license agreement for this application is <a href='http://www.esri.com/legal/software-license' rel='nofollow ugc'><span style=' text-decoration: underline; color:#0000ff;'>here.</span></a></p>",
+    "listed": false,
+    "modified": 1608576562000,
+    "name": "ea2137c5a81e4ea4b6ffd22c50eaa057.zip",
+    "numComments": 27,
+    "numRatings": 0,
+    "numViews": 77,
+    "owner": "dwrgisdev",
+    "ownerFolder": null,
+    "properties": null,
+    "protected": false,
+    "proxyFilter": null,
+    "scoreCompleteness": 75,
+    "screenshots": [
+    ],
+    "size": 6376441,
+    "snippet": "Sponsored by the Utah Mule Deer Protection Act",
+    "spatialReference": null,
+    "subInfo": 0,
+    "tags": [
+    ],
+    "thumbnail": "thumbnail/thumbnail.png",
+    "title": "Coyote Bounty Reporter",
+    "type": "Native Application",
+    "typeKeywords": [
+        "API_QML",
+        "App",
+        "Application",
+        "AppStudio",
+        "Configuration",
+        "Native",
+        "qml",
+        "Registered App"
+    ],
+    "url": null
+}

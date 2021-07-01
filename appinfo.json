@@ -1,0 +1,148 @@
+{
+    "appLink": "",
+    "arcgisRuntime": {
+        "version": {
+            "major": 100,
+            "minor": 5
+        }
+    },
+    "capabilities": {
+        "audio": true,
+        "backgroundModes": {
+            "audio": {
+                "enabled": false
+            },
+            "bluetooth": {
+                "central": {
+                    "enabled": false
+                }
+            },
+            "ios": {
+                "externalAccessory": false
+            },
+            "location": {
+                "enabled": true
+            }
+        },
+        "beacon": false,
+        "biometricAuthentication": false,
+        "bluetooth": true,
+        "camera": true,
+        "enterpriseAuthentication": true,
+        "fileSharing": true,
+        "highAccuracyLocation": true,
+        "interAppFileSharing": false,
+        "ios": {
+            "appTransportSecurity": {
+                "allowArbitraryLoads": false
+            },
+            "externalAccessoryProtocolStrings": [
+            ]
+        },
+        "localnotification": false,
+        "location": true,
+        "microphone": true,
+        "network": true,
+        "storage": true,
+        "vibration": true
+    },
+    "deployment": {
+        "android": {
+            "packageName": "com.arcgis.coyotebountyreporter"
+        },
+        "arcgisRuntimeExtensionsLicense": "",
+        "arcgisRuntimeLicense": "runtimelite,1000,rud9261009732,none,XXMFA0PL40S2F5KHT078",
+        "clientId": "TaXLFoNs6c4vA3ND",
+        "ios": {
+            "bundleId": "com.esri.app4491c544a2af41ee888eb7d516968745",
+            "codeSignIdentity": ""
+        },
+        "macos": {
+            "bundleId": "",
+            "codeSignIdentity": ""
+        },
+        "publisherName": "",
+        "shortcutName": "",
+        "uwp": {
+            "packageName": "",
+            "productID": ""
+        }
+    },
+    "devicesTypes": [
+        "desktop",
+        "tablet",
+        "phone"
+    ],
+    "display": {
+        "desktop": {
+            "minimumHeight": 0,
+            "minimumWidth": 0,
+            "windowMode": "default"
+        },
+        "phone": {
+            "landscape": false,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "tablet": {
+            "landscape": true,
+            "portrait": true,
+            "showStatusBar": true
+        },
+        "windows": {
+            "renderingEngine": "default"
+        }
+    },
+    "environment": {
+        "QT_ANDROID_ENABLE_WORKAROUND_TO_DISABLE_PREDICTIVE_TEXT": "ON"
+    },
+    "launchUrlSchemes": [
+        "arcgis-appstudio-player",
+        "arcgis-collector",
+        "arcgis-trek2there",
+        "arcgis-explorer",
+        "arcgis-navigator",
+        "arcgis-workforce"
+    ],
+    "mainFile": "Survey123.qml",
+    "multipleInstances": true,
+    "projectFile": "Survey123.qmlproject",
+    "properties": {
+        "backgroundColor": "#cacaca",
+        "backgroundTextureImage": "images/brushedmetal.jpg",
+        "companyLogo": "images/logo-black.png",
+        "companyUrl": "",
+        "fontFamily": "Noto Sans",
+        "formBackgroundColor": "#f7f8f8",
+        "startBackgroundColor": "#31872e",
+        "startForegroundColor": "transparent",
+        "startOverlayImage": "images/start-overlay.png",
+        "textColor": "#4c4c4c",
+        "titleBarBackgroundColor": "#5b5b5b",
+        "titleBarTextColor": "#ffffff"
+    },
+    "resources": {
+        "appIcon": "Coyote_Icon.png",
+        "appIconBackgroundColor": "#3c8b09",
+        "ios": {
+            "appIcon": "appicon_ios.png"
+        },
+        "launchImageBackground": "launchimage-background.png",
+        "launchImageBackgroundColor": "#232323",
+        "launchImageOverlay": "Coyote513.png",
+        "launchImageTextColor": "#ffffff"
+    },
+    "schema": "template/appschema.json",
+    "translations": {
+        "fileName": "Survey123App",
+        "path": "languages"
+    },
+    "type": "app",
+    "universalLink": "",
+    "urlScheme": "",
+    "version": {
+        "major": 2,
+        "micro": 5,
+        "minor": 0
+    }
+}

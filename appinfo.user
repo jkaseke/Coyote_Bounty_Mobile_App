@@ -1,0 +1,17 @@
+[CloudMake]
+notifications=none
+targetAndroidArm64=true
+
+[Android]
+signApk=true
+keyStorePath=C:/Users/jkaseke/Desktop/AndroidAppTest/11_24.keystore
+keyAlias=key0
+
+[IOS]
+distributionMethod=development
+
+[MacOS]
+signApp=false
+
+[Windows]
+signApp=false
